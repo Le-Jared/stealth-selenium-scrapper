@@ -11,6 +11,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
 
+from visualizer import DataVisualizer
+
 @dataclass
 class ProductData:
     name: str = "None"
@@ -181,9 +183,15 @@ class LazadaScraper:
             return
         
         try:
+            filtered_data = [product for product in self.data 
+                            if product.location.lower() != 'china' 
+                            and 'china' not in product.location.lower()]
+            
+            print(f"Filtered out {len(self.data) - len(filtered_data)} products from China")
+            
             with open(filename, 'w', encoding='utf-8') as f:
-                json.dump([asdict(product) for product in self.data], f, ensure_ascii=False, indent=2)
-            print(f"Successfully saved {len(self.data)} products to {filename}")
+                json.dump([asdict(product) for product in filtered_data], f, ensure_ascii=False, indent=2)
+            print(f"Successfully saved {len(filtered_data)} products to {filename}")
         except Exception as e:
             print(f"Error saving to file: {str(e)}")
 
@@ -195,5 +203,15 @@ class LazadaScraper:
         print("Scraping completed!")
 
 if __name__ == "__main__":
+    # First run the scraper
+    print("\n=== Starting Lazada Scraping ===")
     scraper = LazadaScraper()
     scraper.run()
+    print("\n=== Scraping Complete ===")
+
+    # Then run the analysis
+    print("\n=== Starting Data Analysis ===")
+    visualizer = DataVisualizer()
+    visualizer.load_data()
+    print("\n=== Analysis Complete ===")
+
