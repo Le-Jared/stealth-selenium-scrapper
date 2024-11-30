@@ -1,0 +1,94 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.env
+.venv
+pythonenv*
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.vs/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+logs/
+log/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.temp
+
+# Chrome Driver and Selenium
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+*.crx
+*.pem
+
+# Project specific
+data/
+output/
+results/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.yaml
+*.yml
+
+# Dependencies
+requirements.txt.lock
+pip-lock.txt
+poetry.lock
+Pipfile.lock
+
+# Documentation
+docs/_build/
+site/
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
