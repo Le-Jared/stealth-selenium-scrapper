@@ -1,23 +1,16 @@
 [
   {
+    "name": "PRISM+ X270 | 27'' 240Hz 1ms 1500R Curved Adaptive-Sync Ready Gaming Monitor [1920 x 1080]",
+    "price": "$304.00",
+    "rating": "400",
+    "sold": "1.5K sold",
+    "location": "Singapore"
+  },
+  {
     "name": "PRISM+ W240 24 IPS 120Hz Productivity Monitor Gaming Monitor [1920 x 1080]",
     "price": "$118.00",
     "rating": "3277",
     "sold": "14.3K sold",
-    "location": "Singapore"
-  },
-  {
-    "name": "(Official) Xiaomi Mi Monitor A22i / A24i / G24i / A27i / G27i / G34WQi 21 - 34 Inch Office Gaming Monitor IPS Technology 178° 1080P HD Display",
-    "price": "$108.00",
-    "rating": "382",
-    "sold": "1.4K sold",
-    "location": "Singapore"
-  },
-  {
-    "name": "PRISM+ W220v | 21.5” 100Hz Productivity Monitor Gaming Monitor [1920 x 1080]",
-    "price": "$98.00",
-    "rating": "557",
-    "sold": "2.1K sold",
     "location": "Singapore"
   },
   {
@@ -28,24 +21,10 @@
     "location": "Singapore"
   },
   {
-    "name": "PRISM+ W270 | 27\" FHD [1920 x 1080] IPS Professional Monitor Productivity Monitor",
-    "price": "$138.00",
-    "rating": "1526",
-    "sold": "6.8K sold",
-    "location": "Singapore"
-  },
-  {
-    "name": "PRISM+ X315 PRO 31.5 165Hz 1ms Curved WQHD [2560 x 1440] Adaptive-Sync Gaming Monitor",
-    "price": "$447.00",
-    "rating": "626",
-    "sold": "2.5K sold",
-    "location": "Singapore"
-  },
-  {
-    "name": "PRISM+ C270 | 27\" 100Hz 1500R Curved Productivity Monitor Gaming Monitor [1920 x 1080]",
-    "price": "$158.00",
-    "rating": "1841",
-    "sold": "7.9K sold",
+    "name": "(Official) Xiaomi Mi Monitor A22i / A24i / G24i / A27i / G27i / G34WQi 21 - 34 Inch Office Gaming Monitor IPS Technology 178° 1080P HD Display",
+    "price": "$108.00",
+    "rating": "382",
+    "sold": "1.4K sold",
     "location": "Singapore"
   },
   {
@@ -56,24 +35,10 @@
     "location": "Singapore"
   },
   {
-    "name": "PRISM+ X270 | 27'' 240Hz 1ms 1500R Curved Adaptive-Sync Ready Gaming Monitor [1920 x 1080]",
-    "price": "$304.00",
-    "rating": "400",
-    "sold": "1.5K sold",
-    "location": "Singapore"
-  },
-  {
-    "name": "PRISM+ C315 MAX | 31.5\" UHD 4K [3840 x 2160] 120% sRGB 1500R Curved FreeSync G-Sync Ready Gaming Monitor",
-    "price": "$406.00",
-    "rating": "680",
-    "sold": "2.8K sold",
-    "location": "Singapore"
-  },
-  {
-    "name": "[NEW LAUNCH] Samsung 27\" Essential Monitor S3 (S33GC) (Black) / LS27C330GAEXXS",
-    "price": "$128.00",
-    "rating": "1142",
-    "sold": "4.6K sold",
+    "name": "PRISM+ C270 | 27\" 100Hz 1500R Curved Productivity Monitor Gaming Monitor [1920 x 1080]",
+    "price": "$158.00",
+    "rating": "1841",
+    "sold": "7.9K sold",
     "location": "Singapore"
   },
   {
@@ -84,6 +49,69 @@
     "location": "Singapore"
   },
   {
+    "name": "Armaggeddon Pixxel+ Pro PF22HD 22'' Super Gaming Monitor l 100hz l 5ms l Free-Sync l Frameless l Elegant Metal Stand",
+    "price": "$94.00",
+    "rating": "109",
+    "sold": "360 sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "PRISM+ W270 | 27\" FHD [1920 x 1080] IPS Professional Monitor Productivity Monitor",
+    "price": "$138.00",
+    "rating": "1526",
+    "sold": "6.8K sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "PRISM+ W220v | 21.5” 100Hz Productivity Monitor Gaming Monitor [1920 x 1080]",
+    "price": "$98.00",
+    "rating": "557",
+    "sold": "2.1K sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "PRISM+ X315 PRO 31.5 165Hz 1ms Curved WQHD [2560 x 1440] Adaptive-Sync Gaming Monitor",
+    "price": "$447.00",
+    "rating": "626",
+    "sold": "2.5K sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "PRISM+ C315 MAX | 31.5\" UHD 4K [3840 x 2160] 120% sRGB 1500R Curved FreeSync G-Sync Ready Gaming Monitor",
+    "price": "$406.00",
+    "rating": "680",
+    "sold": "2.8K sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "PRISM+ X340 PRO EVO | 34\" 180Hz Curved Ultrawide 21:9 UWQHD [3440 x 1440] 120% sRGB Gaming Monitor",
+    "price": "$660.00",
+    "rating": "239",
+    "sold": "1.5K sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "PRISM+ PG400U PRO 40 IPS 144Hz 1ms UWQHD 120% sRGB Adaptive-Sync Pro Gaming Monitor [3440 x 1440]",
+    "price": "$812.00",
+    "rating": "55",
+    "sold": "269 sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "PRISM+ C240 24 75Hz 1500R Curved Productivity Monitor Gaming Monitor [1920 x 1080]",
+    "price": "$138.00",
+    "rating": "1984",
+    "sold": "7.7K sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "PRISM+ X240 (1200R) 24 180Hz 1ms Curved FHD [1920 x 1080] FreeSync G-Sync Ready Gaming Monitor",
+    "price": "$233.00",
+    "rating": "2690",
+    "sold": "10.2K sold",
+    "location": "Singapore"
+  },
+  {
     "name": "[New 300Hz Refresh Rate] Acer Nitro VG250Q F 24.5-Inch FHD IPS Gaming Monitor with 1ms Response Time",
     "price": "$271.00",
     "rating": "84",
@@ -91,10 +119,24 @@
     "location": "Singapore"
   },
   {
-    "name": "Armaggeddon Pixxel+ Pro PF22HD 22'' Super Gaming Monitor l 100hz l 5ms l Free-Sync l Frameless l Elegant Metal Stand",
-    "price": "$94.00",
-    "rating": "109",
-    "sold": "360 sold",
+    "name": "Samsung 27\" Odyssey G4 240Hz Gaming Monitor / LS27BG400EEXXS [Online Exclusive]",
+    "price": "$356.00",
+    "rating": "56",
+    "sold": "197 sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "【Ready Stock】 Dell 27 Gaming Monitor - G2724D",
+    "price": "$375.21",
+    "rating": "26",
+    "sold": "103 sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "(Official) Xiaomi Curved Gaming Monitor G34WQi 34 Inch 21:9 180Hz High Refresh Rate 1ms Fast Response 1500R Curvature WQHD 3440x1440 Resolution sRGB Wide Colour Gamut Free-Sync Technology Mi Display",
+    "price": "$365.00",
+    "rating": "52",
+    "sold": "259 sold",
     "location": "Singapore"
   },
   {
@@ -105,10 +147,31 @@
     "location": "Singapore"
   },
   {
+    "name": "Lenovo L24i-4A Monitor | 67BCKAC6MY | 23.8 inch FHD (1920x1080) Anti-glare Dual Speaker | 99% sRGB | Tilt Stand | TÜV Rheinland® Eye Comfort | 3Y Warranty",
+    "price": "$95.00",
+    "rating": "12",
+    "sold": "138 sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "[NEW LAUNCH] Samsung 27\" Odyssey G3 G30D FHD 180HZ Gaming Monitor / LS27DG302EEXXS",
+    "price": "$258.00",
+    "rating": "2",
+    "sold": "11 sold",
+    "location": "Singapore"
+  },
+  {
     "name": "[🔥HOT SALE🔥] ZSCMALL Portable Monitor 14 15.6\" IPS 1080P 2K 4K HD Portable Monitors for Laptop Type-c HDMI USB-C Led HDR Ultra-thin Mini Portable 144Hz Touchcreen IPS PS4 PROXBOX NS Game auxiliary screen",
     "price": "$102.99",
     "rating": "237",
     "sold": "827 sold",
+    "location": "Singapore"
+  },
+  {
+    "name": "Xiaomi Mini LED Gaming Monitor G Pro 27i 27 Inch 2K HDR1000 LED IPS 180Hz 1ms GTG FreeSync TUAV Low Blue Light Ultra Slim Quantum Dot E-sports series (3 Years Warranty)",
+    "price": "$435.00",
+    "rating": "2",
+    "sold": "16 sold",
     "location": "Singapore"
   },
   {

@@ -1,49 +1,49 @@
 {
-    "analysis_date": "2024-11-30 16:35:48",
-    "total_products": 18,
+    "analysis_date": "2024-11-30 17:26:07",
+    "total_products": 27,
     "price_statistics": {
-        "count": 18.0,
-        "mean": 202.22,
-        "std": 130.65,
+        "count": 27.0,
+        "mean": 268.12,
+        "std": 186.33,
         "min": 94.0,
-        "25%": 110.5,
-        "50%": 139.5,
-        "75%": 253.75,
-        "max": 508.0
+        "25%": 116.5,
+        "50%": 202.0,
+        "75%": 370.11,
+        "max": 812.0
     },
     "rating_statistics": {
-        "count": 17.0,
-        "mean": 726.94,
-        "std": 833.05,
+        "count": 26.0,
+        "mean": 628.23,
+        "std": 889.05,
         "min": 1.0,
-        "25%": 237.0,
-        "50%": 400.0,
-        "75%": 763.0,
+        "25%": 55.25,
+        "50%": 248.5,
+        "75%": 666.5,
         "max": 3277.0
     },
     "sales_statistics": {
-        "count": 18.0,
-        "mean": 2863.22,
-        "std": 3619.36,
+        "count": 27.0,
+        "mean": 2493.74,
+        "std": 3653.15,
         "min": 0.0,
-        "25%": 828.0,
-        "50%": 1450.0,
-        "75%": 2950.0,
+        "25%": 228.0,
+        "50%": 1100.0,
+        "75%": 2650.0,
         "max": 14300.0
     },
     "correlations": {
         "price_clean": {
             "price_clean": 1.0,
-            "rating_clean": -0.11,
-            "sold_clean": -0.08
+            "rating_clean": -0.26,
+            "sold_clean": -0.23
         },
         "rating_clean": {
-            "price_clean": -0.11,
+            "price_clean": -0.26,
             "rating_clean": 1.0,
             "sold_clean": 1.0
         },
         "sold_clean": {
-            "price_clean": -0.08,
+            "price_clean": -0.23,
             "rating_clean": 1.0,
             "sold_clean": 1.0
         }
@@ -56,31 +56,31 @@
             "rating": "3277"
         },
         {
+            "name": "PRISM+ X240 (1200R) 24 180Hz 1ms Curved FHD [1920 x 1080] FreeSync G-Sync Ready Gaming Monitor",
+            "price": "$233.00",
+            "sold": "10.2K sold",
+            "rating": "2690"
+        },
+        {
             "name": "PRISM+ C270 | 27\" 100Hz 1500R Curved Productivity Monitor Gaming Monitor [1920 x 1080]",
             "price": "$158.00",
             "sold": "7.9K sold",
             "rating": "1841"
         },
         {
+            "name": "PRISM+ C240 24 75Hz 1500R Curved Productivity Monitor Gaming Monitor [1920 x 1080]",
+            "price": "$138.00",
+            "sold": "7.7K sold",
+            "rating": "1984"
+        },
+        {
             "name": "PRISM+ W270 | 27\" FHD [1920 x 1080] IPS Professional Monitor Productivity Monitor",
             "price": "$138.00",
             "sold": "6.8K sold",
             "rating": "1526"
-        },
-        {
-            "name": "[NEW LAUNCH] Samsung 27\" Essential Monitor S3 (S33GC) (Black) / LS27C330GAEXXS",
-            "price": "$128.00",
-            "sold": "4.6K sold",
-            "rating": "1142"
-        },
-        {
-            "name": "PRISM+ X340 PRO | 34\" 180Hz 1ms HDR400 Curved Ultrawide WQHD [3440 x 1440] Adaptive-Sync Gaming Monitor",
-            "price": "$508.00",
-            "sold": "3.0K sold",
-            "rating": "763"
         }
     ],
     "location_distribution": {
-        "Singapore": 18
+        "Singapore": 27
     }
 }
