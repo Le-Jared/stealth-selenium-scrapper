@@ -72,9 +72,7 @@ data/
 output/
 results/
 *.csv
-*.xlsx
 *.xls
-*.json
 *.yaml
 *.yml
 
