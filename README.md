@@ -1,4 +1,4 @@
-A sophisticated web scraping framework using Selenium with advanced anti-detection features. 
+A web scraping framework using Selenium with advanced anti-detection features. 
 ## Implements multiple evasion techniques including:
 - Random user agent rotation
 - Browser fingerprint manipulation
