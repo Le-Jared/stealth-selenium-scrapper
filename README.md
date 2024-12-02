@@ -1,17 +1,18 @@
-A Python-based web scraping tool that extracts and analyzes product data from Lazada's marketplace.
+A sophisticated web scraping framework using Selenium with advanced anti-detection features. 
+## Implements multiple evasion techniques including:
+- Random user agent rotation
+- Browser fingerprint manipulation
+- Automated waiting patterns
+- Request randomization
+- Headless mode capabilities
+- WebDriver signature masking
 
-## Features
-
-- Scrapes product information from Lazada
-- Filters out products based on origin 
-- Generates JSON output of scraped products
-- Creates detailed Excel analysis reports
-- Data visualization capabilities
-
-## Key Metrics
-- Successfully processes multiple products 
-- Filtering capabilities
-- Generates analysis for qualified products 
+## Built specifically for e-commerce data extraction with robust error handling, retry mechanisms, and data visualization capabilities. Features include:
+- Configurable scraping parameters
+- Data filtering and processing
+- JSON export functionality
+- Visual data analysis
+- Rate limiting and proxy support
 
 ## Images
 ![image](https://github.com/user-attachments/assets/b05a2c15-4452-4aa7-bdc5-59452b20ac5f)
